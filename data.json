@@ -1,0 +1,361 @@
+[
+  {
+    "title": "AI Resume Builder",
+    "category": "Tech",
+    "difficulty": "Medium",
+    "description": "Create resumes using AI",
+    "popularity": 8
+  },
+    {
+    "title": "AI Chatbot for Customer Support",
+    "category": "Tech",
+    "difficulty": "Medium",
+    "description": "Build an AI chatbot to automate customer queries",
+    "popularity": 9
+  },
+  {
+    "title": "Smart Home Automation System",
+    "category": "Tech",
+    "difficulty": "Hard",
+    "description": "Control home devices using IoT and mobile apps",
+    "popularity": 10
+  },
+  {
+    "title": "Code Snippet Manager",
+    "category": "Tech",
+    "difficulty": "Easy",
+    "description": "Store and organize reusable code snippets",
+    "popularity": 7
+  },
+  {
+    "title": "AI Image Generator Tool",
+    "category": "Tech",
+    "difficulty": "Hard",
+    "description": "Generate images from text using AI models",
+    "popularity": 10
+  },
+  {
+    "title": "Website Performance Analyzer",
+    "category": "Tech",
+    "difficulty": "Medium",
+    "description": "Analyze and improve website speed and SEO",
+    "popularity": 8
+  },
+  {
+    "title": "Healthy Meal Planner",
+    "category": "Health",
+    "difficulty": "Easy",
+    "description": "Plan healthy meals",
+    "popularity": 7
+  },
+  {
+    "title": "Budget Tracker App",
+    "category": "Finance",
+    "difficulty": "Easy",
+    "description": "Track expenses and savings",
+    "popularity": 9
+  },
+  {
+    "title": "Online Learning Platform",
+    "category": "Education",
+    "difficulty": "Hard",
+    "description": "Create courses and sell online",
+    "popularity": 9
+  },
+  {
+  "title": "Mental Health Chat App",
+  "category": "Health",
+  "difficulty": "Medium",
+  "description": "Provide anonymous chat support for mental wellness",
+  "popularity": 9
+},
+{
+  "title": "Water Intake Reminder",
+  "category": "Health",
+  "difficulty": "Easy",
+  "description": "Remind users to stay hydrated throughout the day",
+  "popularity": 7
+},
+{
+  "title": "Yoga & Meditation App",
+  "category": "Health",
+  "difficulty": "Medium",
+  "description": "Guide users through yoga and meditation sessions",
+  "popularity": 8
+},
+{
+  "title": "Budget Travel Planner",
+  "category": "Travel",
+  "difficulty": "Medium",
+  "description": "Help users plan trips within a budget",
+  "popularity": 8
+},
+{
+  "title": "Local Experience Finder",
+  "category": "Travel",
+  "difficulty": "Medium",
+  "description": "Discover local events, food, and hidden gems",
+  "popularity": 9
+},
+{
+  "title": "Travel Expense Tracker",
+  "category": "Travel",
+  "difficulty": "Easy",
+  "description": "Track expenses during trips",
+  "popularity": 7
+},
+{
+  "title": "AI Travel Recommendation System",
+  "category": "Travel",
+  "difficulty": "Hard",
+  "description": "Suggest destinations based on user preferences",
+  "popularity": 10
+},
+{
+  "title": "Group Trip Planner",
+  "category": "Travel",
+  "difficulty": "Medium",
+  "description": "Plan and coordinate trips with friends",
+  "popularity": 8
+},
+{
+  "title": "Social Media Analytics Dashboard",
+  "category": "Marketing",
+  "difficulty": "Medium",
+  "description": "Analyze engagement, reach, and performance of posts",
+  "popularity": 9
+},
+{
+  "title": "Email Campaign Manager",
+  "category": "Marketing",
+  "difficulty": "Medium",
+  "description": "Create, send, and track email marketing campaigns",
+  "popularity": 8
+},
+{
+  "title": "Influencer Collaboration Platform",
+  "category": "Marketing",
+  "difficulty": "Hard",
+  "description": "Connect brands with influencers for promotions",
+  "popularity": 10
+},
+{
+  "title": "Content Idea Generator",
+  "category": "Marketing",
+  "difficulty": "Easy",
+  "description": "Generate trending content ideas for social media",
+  "popularity": 7
+},
+{
+  "title": "Subscription Box Service",
+  "category": "Business",
+  "difficulty": "Medium",
+  "description": "Deliver curated products monthly to subscribers",
+  "popularity": 8
+},
+{
+  "title": "Dropshipping Platform",
+  "category": "Business",
+  "difficulty": "Medium",
+  "description": "Sell products online without managing inventory",
+  "popularity": 9
+},
+{
+  "title": "Online Consulting Platform",
+  "category": "Business",
+  "difficulty": "Hard",
+  "description": "Connect experts with clients for paid consultations",
+  "popularity": 9
+},
+{
+  "title": "Digital Product Marketplace",
+  "category": "Business",
+  "difficulty": "Hard",
+  "description": "Sell eBooks, templates, and digital assets",
+  "popularity": 10
+},
+{
+  "title": "Online Quiz Platform",
+  "category": "Education",
+  "difficulty": "Medium",
+  "description": "Create and take quizzes on various subjects",
+  "popularity": 8
+},
+{
+  "title": "Virtual Classroom App",
+  "category": "Education",
+  "difficulty": "Hard",
+  "description": "Conduct live classes with video and chat features",
+  "popularity": 9
+},
+{
+  "title": "Flashcard Learning App",
+  "category": "Education",
+  "difficulty": "Easy",
+  "description": "Help users memorize concepts using flashcards",
+  "popularity": 7
+},
+{
+  "title": "Skill-Based Learning Platform",
+  "category": "Education",
+  "difficulty": "Hard",
+  "description": "Offer courses focused on practical skills",
+  "popularity": 9
+},
+{
+  "title": "Investment Portfolio Tracker",
+  "category": "Finance",
+  "difficulty": "Medium",
+  "description": "Track stocks, crypto, and investments in one place",
+  "popularity": 10
+},
+{
+  "title": "Expense Splitting App",
+  "category": "Finance",
+  "difficulty": "Easy",
+  "description": "Split bills and expenses with friends easily",
+  "popularity": 8
+},
+{
+  "title": "AI Financial Advisor",
+  "category": "Finance",
+  "difficulty": "Hard",
+  "description": "Provide smart financial advice using AI",
+  "popularity": 10
+},
+{
+  "title": "Loan Eligibility Checker",
+  "category": "Finance",
+  "difficulty": "Medium",
+  "description": "Check loan eligibility based on income and credit",
+  "popularity": 7
+},
+{
+  "title": "Savings Goal Tracker",
+  "category": "Finance",
+  "difficulty": "Easy",
+  "description": "Set and track financial savings goals",
+  "popularity": 8
+},
+{
+  "title": "Study Planner App",
+  "category": "Education",
+  "difficulty": "Easy",
+  "description": "Organize study schedules and track progress",
+  "popularity": 8
+},
+{
+  "title": "Local Services Booking App",
+  "category": "Business",
+  "difficulty": "Medium",
+  "description": "Book services like plumbing, cleaning, etc.",
+  "popularity": 8
+},
+{
+  "title": "Ad Performance Tracker",
+  "category": "Marketing",
+  "difficulty": "Medium",
+  "description": "Track and optimize ad campaign performance",
+  "popularity": 9
+},
+{
+  "title": "Calorie Counter App",
+  "category": "Health",
+  "difficulty": "Medium",
+  "description": "Track daily calorie intake and nutrition",
+  "popularity": 9
+},
+{
+  "title": "Doctor Appointment Booking System",
+  "category": "Health",
+  "difficulty": "Hard",
+  "description": "Allow users to book appointments with doctors online",
+  "popularity": 10
+},
+  {
+    "title": "Fitness Tracking App",
+    "category": "Health",
+    "difficulty": "Medium",
+    "description": "Track workouts and progress",
+    "popularity": 8
+  },
+  {
+    "title": "E-commerce Store",
+    "category": "Business",
+    "difficulty": "Hard",
+    "description": "Sell products online",
+    "popularity": 10
+  },
+  {
+    "title": "Social Media Scheduler",
+    "category": "Marketing",
+    "difficulty": "Medium",
+    "description": "Schedule and manage posts",
+    "popularity": 7
+  },
+  {
+    "title": "Travel Planner App",
+    "category": "Travel",
+    "difficulty": "Medium",
+    "description": "Plan trips and itineraries",
+    "popularity": 8
+  },
+  {
+    "title": "Freelance Marketplace",
+    "category": "Business",
+    "difficulty": "Hard",
+    "description": "Connect freelancers with clients",
+    "popularity": 9
+  },
+
+  {
+    "title": "Habit Tracker",
+    "category": "Productivity",
+    "difficulty": "Easy",
+    "description": "Track daily habits and goals",
+    "popularity": 8
+  },
+  {
+    "title": "To-Do List App",
+    "category": "Productivity",
+    "difficulty": "Easy",
+    "description": "Manage daily tasks efficiently",
+    "popularity": 7
+  },
+  {
+    "title": "Pomodoro Timer App",
+    "category": "Productivity",
+    "difficulty": "Medium",
+    "description": "Improve focus using Pomodoro technique",
+    "popularity": 8
+  },
+  {
+    "title": "Note-Taking App",
+    "category": "Productivity",
+    "difficulty": "Medium",
+    "description": "Organize notes and ideas in one place",
+    "popularity": 9
+  },
+  {
+    "title": "Time Management Dashboard",
+    "category": "Productivity",
+    "difficulty": "Hard",
+    "description": "Analyze and optimize daily time usage",
+    "popularity": 9
+  },
+
+  {
+    "title": "Language Learning App",
+    "category": "Education",
+    "difficulty": "Hard",
+    "description": "Learn new languages interactively",
+    "popularity": 9
+  },
+  {
+    "title": "Event Management Platform",
+    "category": "Business",
+    "difficulty": "Medium",
+    "description": "Organize and manage events",
+    "popularity": 7
+  }
+]

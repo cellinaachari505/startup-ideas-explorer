@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Startup Ideas Explorer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+    <header class="header">
+        <h1>🚀 Startup Ideas Explorer</h1>
+        <p>Explore creative startup ideas</p>
+    </header>
+    
+    <section class="controls">
+
+        <select id="filterCategory">
+            <option value="">All Categories</option>
+            <option value="Tech">Tech</option>
+            <option value="Health">Health</option>
+            <option value="Finance">Finance</option>
+            <option value="Education">Education</option>
+            <option value="Business">Business</option>
+            <option value="Marketing">Marketing</option>
+            <option value="Travel">Travel</option>
+            <option value="Productivity">Productivity</option>
+        </select>
+
+        <button id="getIdeaBtn">Load Ideas</button>
+    </section>
+
+
+    <div id="loading" class="hidden">
+        <p>Loading ideas...</p>
+    </div>
+
+
+    <main id="container" class="container">
+
+    </main>
+
+
+    <div id="error" class="hidden">
+        <p>Failed to load data. Try again.</p>
+    </div> 
+
+    <script src="script.js"></script>
+
+</body>
+</html>
