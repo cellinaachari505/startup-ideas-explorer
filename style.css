@@ -153,3 +153,22 @@ body {
     width: 90%;
   }
 }
+
+/* LIGHT MODE */
+body.light {
+  background: #ffffff;
+  color: #000;
+}
+
+body.light .header {
+  background: #e2e8f0;
+}
+
+body.light .card {
+  background: #f1f5f9;
+  color: black;
+}
+
+body.light .card p {
+  color: #334155;
+}
